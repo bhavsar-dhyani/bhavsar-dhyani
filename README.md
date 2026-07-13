@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dhyani Bhavsar
+# Hi , I'm Dhyani Bhavsar
 
 🎓 MCA Student  
 💻 Aspiring Data Scientist  

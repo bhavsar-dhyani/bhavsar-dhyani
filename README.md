@@ -50,6 +50,9 @@ A machine learning project that predicts house prices using Python and regressio
 ### 🌱 Smart Irrigation System
 An IoT-based project using Arduino to automate irrigation based on soil moisture.
 
+### 📊 E-Commerce Sales & Customer Analytics
+ABuilt an end-to-end e-commerce analytics project using a synthetic transaction dataset containing customer, order, product, category, city, quantity, pricing and revenue data.
+
 ### 📊 Retail Sales Analytics Dashboard *(Coming Soon)*
 An end-to-end data analytics project with machine learning, interactive dashboards, and sales forecasting.
 
